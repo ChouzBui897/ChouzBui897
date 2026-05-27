@@ -42,6 +42,3 @@ TCP Port Scanner with:
 - Banner Grabbing
 - JSON Export
 
-## GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChouzBui897&show_icons=true)
