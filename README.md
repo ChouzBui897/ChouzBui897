@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**ChouzBui897/ChouzBui897** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Bui Minh Chau — an Information Technology student focused on:
 
-Here are some ideas to get you started:
+- System Administration
+- DevOps
+- Cloud Engineering
+- Cyber Security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies & Tools
+
+- Windows Server
+- Linux
+- Docker
+- GitLab CI/CD
+- AWS
+- SonarQube
+- Trivy
+- OWASP ZAP
+- Python
+- Flask
+
+## Featured Projects
+
+### DevSecOps Pipeline
+DevSecOps CI/CD pipeline integrating:
+- SAST
+- SCA
+- DAST
+- Docker deployment
+
+### AWS Web Deployment
+ASP.NET MVC deployment using:
+- EC2
+- RDS
+- ALB
+- Auto Scaling
+
+### Python Port Scanner
+TCP Port Scanner with:
+- Multithreading
+- Banner Grabbing
+- JSON Export
+
+## GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChouzBui897&show_icons=true)
